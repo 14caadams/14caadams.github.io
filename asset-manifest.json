@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/14caadams.github.io/static/css/main.98e201dc.chunk.css",
+    "main.js": "/14caadams.github.io/static/js/main.1b3e2b89.chunk.js",
+    "main.js.map": "/14caadams.github.io/static/js/main.1b3e2b89.chunk.js.map",
+    "runtime-main.js": "/14caadams.github.io/static/js/runtime-main.be0c0101.js",
+    "runtime-main.js.map": "/14caadams.github.io/static/js/runtime-main.be0c0101.js.map",
+    "static/js/2.a59b7cb9.chunk.js": "/14caadams.github.io/static/js/2.a59b7cb9.chunk.js",
+    "static/js/2.a59b7cb9.chunk.js.map": "/14caadams.github.io/static/js/2.a59b7cb9.chunk.js.map",
+    "static/js/3.9aae6dd5.chunk.js": "/14caadams.github.io/static/js/3.9aae6dd5.chunk.js",
+    "static/js/3.9aae6dd5.chunk.js.map": "/14caadams.github.io/static/js/3.9aae6dd5.chunk.js.map",
+    "index.html": "/14caadams.github.io/index.html",
+    "static/css/main.98e201dc.chunk.css.map": "/14caadams.github.io/static/css/main.98e201dc.chunk.css.map",
+    "static/js/2.a59b7cb9.chunk.js.LICENSE.txt": "/14caadams.github.io/static/js/2.a59b7cb9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/14caadams.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be0c0101.js",
+    "static/js/2.a59b7cb9.chunk.js",
+    "static/css/main.98e201dc.chunk.css",
+    "static/js/main.1b3e2b89.chunk.js"
+  ]
+}
